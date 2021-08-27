@@ -31,13 +31,13 @@
 
 
 ### Краткая информация о данных
-....
+Числа генерятся random.randint из numpy
   
 :arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_0/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
-Создание функции поиска числа по алгоритму поиска целого среднего от МИН и МАКС 
+Создание функции поиска числа за n повторений по алгоритму поиска целого среднего от МИН и МАКС 
 
 :arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_0/README.md#Оглавление)
 
@@ -49,7 +49,7 @@
 
 
 ### Выводы:  
-....
+Удачное внедрение новых алгоритмов
 
 :arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_0/README.md#Оглавление)
 
