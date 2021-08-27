@@ -37,13 +37,13 @@
 
 
 ### Этапы работы над проектом  
-....
+Создание функции поиска числа по алгоритму поиска целого среднего от МИН и МАКС 
 
 :arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_0/README.md#Оглавление)
 
 
 ### Результаты:  
-....
+В среднем поиск происходит за 5 попыток
 
 :arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_0/README.md#Оглавление)
 
