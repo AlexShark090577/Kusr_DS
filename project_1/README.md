@@ -1,17 +1,17 @@
 # Проект 1. Анализ данных компании HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_1/README.md#Результат)    
-[6. Выводы](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_1/README.md#Выводы) 
+[1. Описание проекта](https://github.com/AlexShark090577/Kusr_DS/tree/master/project_1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/AlexShark090577/Kusr_DS/tree/master/project_1/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/AlexShark090577/Kusr_DS/tree/master/project_1/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/AlexShark090577/Kusr_DS/tree/master/project_1/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/AlexShark090577/Kusr_DS/tree/master/project_1/README.md#Результат)    
+[6. Выводы](https://github.com/AlexShark090577/Kusr_DS/tree/master/project_1/README.md#Выводы) 
 
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но, как вы знаете, прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
 
-:arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/master/project_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -35,7 +35,7 @@
 ### Краткая информация о данных
 Требуемые датасеты представлены в каталоге проекта.
   
-:arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/master/project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -44,19 +44,19 @@
 **3 разведывательный анализ**
 **4 очистка данных**
 
-:arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/master/project_1/README.md#Оглавление)
 
 
 ### Результаты:  
 Каждое задание выполнено в отдельной ячейке, выделенной под задание. В решении используется материал: переменные, основные структуры данных (списки, словари, множества), циклы, функции, библиотеки numpy, pandas, matplotlib, plotly. Графики оформлены в соответствии с правилами оформления визуализации данных. Выводы к графикам оформлены в формате Markdown под самим графиком в отдельной ячейке.
 
-:arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/master/project_1/README.md#Оглавление)
 
 
 ### Выводы:  
-Удачное внедрение новых алгоритмов
+В ходе выполнениея проекта была получена структура данных, позволяющая провести исследование зависимостей данных и сделать необходимые выводы
 
-:arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AlexShark090577/Kusr_DS/tree/master/project_1/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
